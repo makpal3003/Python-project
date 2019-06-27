@@ -1,0 +1,52 @@
+[
+  {
+    "username": "user-1",
+    "password": null,
+    "status": false
+  },
+  {
+    "username": "user-2",
+    "password": null,
+    "status": false
+  },
+  {
+    "username": "user-3",
+    "password": null,
+    "status": false
+  },
+  {
+    "username": "user-4",
+    "password": null,
+    "status": false
+  },
+  {
+    "username": "user-5",
+    "password": null,
+    "status": false
+  },
+  {
+    "username": "user-6",
+    "password": null,
+    "status": false
+  },
+  {
+    "username": "user-7",
+    "password": null,
+    "status": false
+  },
+  {
+    "username": "user-8",
+    "password": null,
+    "status": false
+  },
+  {
+    "username": "user-9",
+    "password": null,
+    "status": false
+  },
+  {
+    "username": "user-10",
+    "password": null,
+    "status": false
+  }
+]
